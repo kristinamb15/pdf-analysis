@@ -4,7 +4,7 @@ PDF File is downloaded, parsed, and analyzed.
 
 See [Data Analysis Notebook](pdf_analysis.ipynb) for process, analysis, and visualizations.
 
-To make sure interactive plots are visible, you can visit [this version of the notebook]().
+To make sure interactive plots are visible, you can visit [this version of the notebook](https://nbviewer.jupyter.org/github/kristinamb15/pdf-analysis/blob/main/pdf_analysis.ipynb).
 
 **Language**: Python
 

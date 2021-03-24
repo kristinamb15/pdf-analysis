@@ -41,6 +41,7 @@ If you wish to run the notebook, install the environment:
     ┣ 📜.gitignore
     ┣ 📜environment.yml             # Environment file
     ┣ 📜int_plot.html               # Interactive plot
+    ┣ 📜LICENSE.txt
     ┣ 📜pdf_analysis.ipynb          # Data analysis notebook
     ┣ 📜plotly_graph.png            # PNG of interactive plot
     ┗ 📜README.md
